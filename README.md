@@ -1,4 +1,5 @@
 **Food Order Prediction DWDM Team Project**
+
 *INTRODUCTION*
 Background: In today’s food industry, restaurants and delivery platforms face challenges in anticipating 
 what customers will order. This unpredictability affects inventory, staff management, and 
